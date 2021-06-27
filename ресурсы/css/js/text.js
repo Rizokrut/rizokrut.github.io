@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ["rllzo", "Просто ризо", "ударение на о́", "ничего сложного!"],
+      strings: ["rllzo", "я ризо", "ударение на о́", "ничего сложного!"],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
